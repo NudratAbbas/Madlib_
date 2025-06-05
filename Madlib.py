@@ -27,3 +27,4 @@ def madlib():
 # Run the function
 if __name__ == "__main__":
     madlib()
+#Practicing GitHub badges. YOLO!
